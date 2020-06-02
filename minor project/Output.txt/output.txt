@@ -1,0 +1,17 @@
+Enter a number: 6
+
+Enter the 1st 6 digit number: 556283
+
+Enter the 2nd 6 digit number: 698123
+
+Enter the 3rd 6 digit number: 757957
+
+Enter the 4th 6 digit number: 839685
+
+Your pin is: 536123
+
+Enter the message: 
+Very difficult to break
+
+The message is:  verydifficulttobreak
+The encrypted message is: AHXZFLKIODWOYWUCTHFN
