@@ -1,2 +1,2 @@
-# Project
-The minor project is about encryption.
+# Encryption
+This project is about encryption.
